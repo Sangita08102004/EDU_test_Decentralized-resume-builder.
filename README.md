@@ -22,3 +22,5 @@ The vision is to create a transparent, secure, and artist-friendly platform wher
 
 This project paves the way for a thriving digital art economy, empowering creators and collectors alike.
 
+##Contract Adress
+0x9D1356e485Bd64ca7049A7fafCCC677298dEa509
