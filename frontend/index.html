@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="style.css">
+    <title>Decentralized Resume Builder</title>
+</head>
+<body>
+    <div class="container">
+        <h1>Decentralized Resume Builder</h1>
+        <div class="resume-form">
+            <input type="text" id="name" placeholder="Your Name">
+            <input type="text" id="title" placeholder="Job Title">
+            <textarea id="experience" placeholder="Experience"></textarea>
+            <textarea id="education" placeholder="Education"></textarea>
+            <textarea id="skills" placeholder="Skills"></textarea>
+            <button onclick="submitResume()">Submit Resume</button>
+        </div>
+        <div id="resume-list"></div>
+    </div>
+    <script src="web3.min.js"></script>
+    <script src="app.js"></script>
+</body>
+</html>
