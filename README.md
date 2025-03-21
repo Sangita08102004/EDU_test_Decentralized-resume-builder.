@@ -25,3 +25,9 @@ This project paves the way for a thriving digital art economy, empowering creato
 ##Contract Adress
 0x9D1356e485Bd64ca7049A7fafCCC677298dEa509
 ![image](https://github.com/user-attachments/assets/f185546e-a374-4b43-a719-99a09d33d0a7)
+
+
+
+##Frontend
+![image](https://github.com/user-attachments/assets/7f6de9eb-740d-4a46-a7cf-31fb0f9ec5ac)
+
